@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+ ![Ayushman's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushman11&show_icons=true&theme=dark)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
