@@ -1,14 +1,11 @@
 ### Hi there, I'm Ayushman 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a student, developer and chess enthusiast!!
 
-- 🔭 I just published my first video: [Become A VS Code SuperHero!][video]!
+- 🔭 I just published my first video: [Covid Scraper - Web scraping using Django and BeautifulSoup][video]!
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
 
 ### Connect with me:
 
@@ -39,6 +36,6 @@
 
 [twitter]: https://twitter.com/_ayushman11
 [youtube]: https://www.youtube.com/channel/UC-qontAhB1MABejR2mtIjGw
-[instagram]: https://www.instagram.com/_ayushman11/
-[linkedin]: https://www.linkedin.com/in/ayushman11/
+[instagram]: https://www.instagram.com/_ayushman11
+[linkedin]: https://www.linkedin.com/in/ayushman11
 [video]: https://www.youtube.com/watch?v=Xm4MiNY6fZU
