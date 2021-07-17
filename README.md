@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
- ![Ayushman's Github Stats](https://github-readme-stats.vercel.app/api?username=ayushman11&show_icons=true&theme=dark)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayushman11" height="30" width="40" /></a>
