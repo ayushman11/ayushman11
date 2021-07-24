@@ -2,6 +2,8 @@
 
 ## I'm a student, developer and chess enthusiast!!
 
+- ![favicon-16x16](https://user-images.githubusercontent.com/73010300/126882394-571b0bcf-dbbd-4989-b89a-7bc18b20dabf.png)
+
 - 🔭 I just published my first video: [Covid Scraper - Web scraping using Django and BeautifulSoup][video]!
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with other content creators
