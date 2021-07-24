@@ -1,8 +1,8 @@
 ### Hi there, I'm Ayushman 👋
 
 ## I'm a student, developer and chess enthusiast!!
+<a href="https://ayushman11.github.io" target="blank"><img align="center" src="favicon-16x16.png" alt="_ayushman11" /></a> Visit my Portfolio
 
-- <a href="https://ayushman11.github.io" target="blank"><img align="center" src="favicon-16x16.png" alt="_ayushman11" />Visit my Portfolio</a>
 
 - 🔭 I just published my first video: [Covid Scraper - Web scraping using Django and BeautifulSoup][video]!
 - 🌱 I’m currently learning Django
