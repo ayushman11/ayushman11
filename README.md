@@ -1,12 +1,12 @@
 ### Hi there, I'm Ayushman 👋
 
-## I'm a student, developer and chess enthusiast!!
+## I'm a student, developer and ML enthusiast!!
 <a href="https://ayushman11.github.io" target="blank"><img align="center" src="favicon-16x16.png" alt="_ayushman11" /></a> Visit my Portfolio
 
 
 - 🔭 I just published my first video: [Covid Scraper - Web scraping using Django and BeautifulSoup][video]!
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushman11&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayushman11" /></p>
@@ -21,11 +21,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://ayushman11.github.io" target="blank"><img align="center" src="favicon-32x32.png" alt="_ayushman11" /></a>
-<a href="https://twitter.com/_ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayushman11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushman11" height="30" width="40" /></a>
 <a href="https://fb.com/ayushman1102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushman1102" height="30" width="40" /></a>
 <a href="https://instagram.com/_ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ayushman11" height="30" width="40" /></a>
-<a href="https://www.behance.net/ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayushman11" height="30" width="40" /></a>
+<a href="https://twitter.com/_ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ayushman11" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-qontAhB1MABejR2mtIjGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayushman choudhary" height="30" width="40" /><a/>
 <a href="https://www.codechef.com/users/ayushman11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushman11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushman11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushman11" height="30" width="40" /></a>
