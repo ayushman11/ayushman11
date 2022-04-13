@@ -5,9 +5,9 @@
 
 
 - 🔭 I just published my first video: [Covid Scraper - Web scraping using Django and BeautifulSoup][video]!
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Build solution oriented full stack projects
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushman11&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayushman11" /></p>
 
